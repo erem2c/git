@@ -1,2 +1,2 @@
 # git
-git testing space
+git testing space only for self-learning
